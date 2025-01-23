@@ -11,7 +11,7 @@ class Constructor {
 
     
     void add() {
-        s = a + b;
+        s = a - b;
     }
 
     
