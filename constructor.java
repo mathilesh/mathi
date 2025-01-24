@@ -23,10 +23,10 @@ class Constructor {
     public static void main(String[] args) {
         Scanner A = new Scanner(System.in);
 
-        System.out.println("Enter the first number:");
+        System.out.println("Enter the first num:");
         int a = A.nextInt();
 
-        System.out.println("Enter the second number:");
+        System.out.println("Enter the second num:");
         int b = A.nextInt();
 
     
